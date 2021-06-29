@@ -1,0 +1,16 @@
+{
+  "name": "moviegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.8",
+    "request": "^2.88.2"
+  }
+}
